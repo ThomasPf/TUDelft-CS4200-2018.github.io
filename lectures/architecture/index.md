@@ -19,6 +19,9 @@ In the opening lecture we look at what compilers are, why you would want to stud
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/q5jwqN862yubE3" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/eelcovisser/compiler-construction-lecture-1-what-is-a-compiler" title="Compiler Construction | Lecture 1 | What is a compiler?" target="_blank">Compiler Construction | Lecture 1 | What is a compiler?</a> </strong> from <strong><a href="https://www.slideshare.net/eelcovisser" target="_blank">Eelco Visser</a></strong> </div>
 
+### lecture recording
+<iframe src="https://collegerama.tudelft.nl/Mediasite/Play/f513bc692c444a9aa8a8940e463ec4521d?catalog=528e5b24a2fc4def870e65bd84b28a8c21" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
 ### Reading Material
 
 The lecture discusses the traditional compiler pipeline. In the course we will be using a language workbench (Spoofax to be precise) to define and implement languages. The following paper describes the design of Spoofax. Read it and make the corresponding [homework assignment](/assignments/week1.1/).
